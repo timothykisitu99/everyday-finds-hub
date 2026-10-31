@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Everyday Finds Hub</title>
+    <meta name="description" content="Discover useful products, smart solutions and practical ideas for everyday living.">
+</head>
+
+<body>
+    <header>
+        <h1>Everyday Finds Hub</h1>
+        <p>Useful discoveries. Smarter choices. Better everyday living.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome</h2>
+            <p>
+                Everyday Finds Hub helps people discover useful products,
+                practical solutions and inspiring ideas for everyday life.
+            </p>
+        </section>
+
+        <section>
+            <h2>What We Cover</h2>
+
+            <h3>Home &amp; Kitchen</h3>
+            <p>Household essentials, kitchen tools and practical home solutions.</p>
+
+            <h3>Technology &amp; Gadgets</h3>
+            <p>Useful technology, innovative gadgets and everyday accessories.</p>
+
+            <h3>Lifestyle &amp; Organization</h3>
+            <p>Products and ideas that support convenience and organization.</p>
+        </section>
+
+        <section>
+            <h2>Our Goal</h2>
+            <p>
+                We aim to make product discovery easier through informative,
+                useful and visually engaging recommendations that help people
+                make informed choices.
+            </p>
+        </section>
+
+        <section>
+            <h2>Transparency</h2>
+            <p>
+                Some content may contain affiliate links. We may earn a
+                commission when qualifying purchases are made through these links,
+                at no additional cost to the buyer.
+            </p>
+        </section>
+
+        <footer>
+            <p><a href="privacy.html">Privacy Policy</a></p>
+        </footer>
+    </main>
+</body>
+</html>
